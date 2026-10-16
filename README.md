@@ -1,3 +1,3 @@
 # Lab1
 
-Premier push :)
+Premier push
